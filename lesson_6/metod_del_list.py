@@ -7,7 +7,8 @@ print()
 # Использование pop()
 fruits = ["яблоко", "банан", "вишня"]
 last_fruit = fruits.pop()
-print(last_fruit)  # "вишня" print(fruits)      # ["яблоко"]
+print(last_fruit)  # "вишня" 
+print(fruits)      # ["яблоко"]
 print()
 
 # Использование clear()
